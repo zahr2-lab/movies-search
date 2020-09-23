@@ -1,0 +1,20 @@
+#movieContainer{
+  padding: 10px;
+  font-size: 1.2rem;
+  overflow: scroll;
+  flex: 0 1 78%;
+  width: 100%;
+  color: #333;
+}
+
+
+li{
+  line-height: 2rem;
+  font-weight: 5px;
+  // text-shadow:
+  //      2px 2px 0 #fff,
+  //    -1px -1px 0 #fff,  
+  //     1px -1px 0 #fff,
+  //     -1px 1px 0 #fff,
+  //      1px 1px 0 #fff
+}
